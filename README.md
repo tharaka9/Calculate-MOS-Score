@@ -7,4 +7,6 @@ We select the Call Quality in the App based on the MOS Score. The following tabl
 
 
 ### &How to Get MOS Score
+```
 perl mos.pl 8.8.8.8
+```
